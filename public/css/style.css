@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.home {
+    background-color: lightskyblue;
+}
+
+.about {
+    background-color: greenyellow;
+}
+
+.contact {
+    background-color: lightslategray;
+}
+
+a {
+    text-decoration: none;
+}
+
+.wrapper {
+    height: 100vh;
+    padding: 50px;
+}
